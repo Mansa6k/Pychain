@@ -35,7 +35,8 @@ The project includes the following main components:
 
 <img width="1431" alt="Screenshot 2023-04-23 at 2 56 49 PM" src="https://user-images.githubusercontent.com/118853744/233861425-03e628f5-fe77-4981-a279-2c6136f75af9.png">
 
-License
+# License
+
 Distributed under the MIT License. See LICENSE for more information.
 
 # Contributor
