@@ -33,7 +33,8 @@ The project includes the following main components:
 
 # Screenshot
 
-<img width="1431" alt="Screenshot 2023-04-23 at 2 56 49 PM" src="https://user-images.githubusercontent.com/118853744/233861425-03e628f5-fe77-4981-a279-2c6136f75af9.png">
+<img width="1437" alt="Block_inspector" src="https://user-images.githubusercontent.com/118853744/234439533-e010aeef-51fe-4217-ae54-cf8eadac8610.png">
+
 
 # License
 
